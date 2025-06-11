@@ -73,5 +73,6 @@ export default {
 
     },
   },
-  plugins: [],
+   plugins: [react()],
+    base: './',
 };
